@@ -1,0 +1,16 @@
+Sign in: 
+username:
+- Create a place for the user to write the username.
+Password:
+- Create a place for the user to write the password.
+Personal page:
+Payment card:
+- Create a place for the user to write the payment card number.
+Requests:
+- Allwos the usre to view history of previous orders.
+- Allows the user to add a new shipping address
+- Allows the user to change the preferred payment method
+Prefernces:
+- The user can add and change preferences for favorite products.
+- The user can update notification and alert settings.
+- The user can manage subscriptions and other preferences.
